@@ -28,3 +28,9 @@ Built entirely using standards-compliant JavaScript and WebGL, 8th Wall Web is a
 * [three.js Examples](https://github.com/8thwall/web/tree/master/examples/threejs)
 * [Camera Pipeline Examples](https://github.com/8thwall/web/tree/master/examples/camerapipeline)
 * [Amazon Sumerian Setup](https://github.com/8thwall/web/tree/master/gettingstarted/xrsumerian)
+
+# Interactive AR content
+
+* Easy to develop and customize
+* True AR experience
+* The next level a-frame
