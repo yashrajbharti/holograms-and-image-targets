@@ -5,6 +5,13 @@
 Built entirely using standards-compliant JavaScript and WebGL, 8th Wall Web is a complete implementation of 8th Wall’s Simultaneous Localization and Mapping (SLAM) engine, hyper-optimized for real-time AR on mobile browsers. Features include 6-Degrees of Freedom Tracking, Surface Estimation, Lighting, World Points and Hit Tests.
 
 - - -
+# How to make a hologram
+1. Authorize your device
+2. Copy you app key from the dashboard
+3. Enter the following commands: `cd serve`
+4. `npm install`
+5. `cd..`
+6. `/serve/bin/serve -n -d examples/threejs/8i-hologram`
 
 # Resources
 
