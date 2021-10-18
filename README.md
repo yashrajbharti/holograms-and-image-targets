@@ -29,8 +29,10 @@ Built entirely using standards-compliant JavaScript and WebGL, 8th Wall Web is a
 * [Camera Pipeline Examples](https://github.com/8thwall/web/tree/master/examples/camerapipeline)
 * [Amazon Sumerian Setup](https://github.com/8thwall/web/tree/master/gettingstarted/xrsumerian)
 
-# Interactive AR content
 
-* Easy to develop and customize
-* True AR experience
-* The next level a-frame
+# Why use image targets for showcasing your products or holograms to pop up from a website?
+
+Well it’s not just a model loading up from a website it’s something unexpected. 
+These can really attract people and in present a lot of leading companies are using it already! 
+
+
