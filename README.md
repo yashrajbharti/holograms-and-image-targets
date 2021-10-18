@@ -35,4 +35,9 @@ Built entirely using standards-compliant JavaScript and WebGL, 8th Wall Web is a
 Well it’s not just a model loading up from a website it’s something unexpected. 
 These can really attract people and in present a lot of leading companies are using it already! 
 
+# Interactive AR content
+
+* Easy to develop and customize
+* True AR experience
+* The next level a-frame
 
