@@ -18,7 +18,6 @@ Built entirely using standards-compliant JavaScript and WebGL, 8th Wall Web is a
 * [Getting Started Guide](https://github.com/8thwall/web/tree/master/gettingstarted)
 * [Documentation](https://www.8thwall.com/docs/web/)
 * [8th Wall Website](https://www.8thwall.com)
-
 * [Serving projects locally](https://github.com/8thwall/web/tree/master/serve) - A "serve" script that will run a local https webserver on your development computer. Useful for development and testing of 8th Wall Web projects.
 
 # Web AR Examples
@@ -37,7 +36,8 @@ These can really attract people and in present a lot of leading companies are us
 
 # Interactive AR content
 
-* Easy to develop and customize
+
 * True AR experience
 * The next level a-frame
+* Easy to develop and customize
 
